@@ -4,7 +4,7 @@ include:
 
   # sweep dongle
   - board: nrf52840
-    shield: sweep_central_dongle dongle_display
+    shield: lily58_dongle dongle_display
     artifact-name: sweep_central_dongle
   #lily58
   - board: nice_nano_v2
